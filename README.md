@@ -3,6 +3,9 @@
 This is a [Heroku buildpack][0] for bundling a compatible [wkhtmltopdf][1]
 binary with your environment.
 
+## Forkした理由
+/.fonts/に入れるfontファイルを自分で設定したかったため、forkして自分好みのfontにカスタマイズしました。
+
 ## Versions
 
 * Buildpack:   `0.2`
